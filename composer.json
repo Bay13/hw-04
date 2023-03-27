@@ -7,5 +7,7 @@
             "Bay13\\Hw04\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+		"php: ">=7.4"
+	}
 }

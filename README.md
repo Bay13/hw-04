@@ -12,7 +12,7 @@
 "repositories": [
    {
       "type": "vcs", 
-      "url": "https://github.com/Bay13/package-test.git"
+      "url": "https://github.com/Bay13/hw-04.git"
    }
 ],
 "require": {
